@@ -27,7 +27,7 @@ This project combine JPDA, IMM(CV,CTRV,CTRA) and UKF to achieve a fast object tr
 
 1. Download the [kitti tracking dataset](http://www.cvlibs.net/datasets/kitti/eval_tracking.php)
 
-   For number 0020,orgnaize the data as foolows:
+   For number 0020,orgnaize the data as follows:
    
        └── tracking0020
        ├── calib
