@@ -4,7 +4,9 @@ A fast object tracking method by using JPDA-IMM-UKF.
 [![ros kinetic](https://img.shields.io/badge/ros-kinetic-brightgreen.svg)](http://wiki.ros.org/)  [![pcl 1.8](https://img.shields.io/badge/pcl-1.8-red.svg)](https://pointclouds.org/)  [![dataset kitti](https://img.shields.io/badge/dataset-kitti-blue.svg)](http://www.cvlibs.net/datasets/kitti/eval_tracking.php)
 
 
-### Tracking Result  [[youtube link](https://www.youtube.com/watch?v=RxPtNZFFpqI&ab_channel=IntelligenceVehicle)]
+### Tracking Result  
+[[youtube link](https://www.youtube.com/watch?v=RxPtNZFFpqI&ab_channel=IntelligenceVehicle)] 
+[[bilibili link](https://www.bilibili.com/video/BV1Pv411W77F/)]
 
 ![Image text](https://github.com/wangx1996/Multi-Object-Tracking/blob/main/result/viewer.gif)
 
